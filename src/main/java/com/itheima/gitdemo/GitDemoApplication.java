@@ -12,6 +12,7 @@ public class GitDemoApplication {
         System.out.println("third");
         System.out.println("four");
         System.out.println("six");
+        System.out.println("five");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
